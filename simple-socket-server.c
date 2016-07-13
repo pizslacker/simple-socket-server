@@ -1,14 +1,14 @@
-/******************************************************
-/ Name:          Simple Socket Server (in ANSI C)
-/ Created:       20160629-12:51-GMT+1
-/
-/ Creator:       Kim Olsen <post@kimeriktjoraolsen.no>
-/ Lastchanhge:   20160701-04:53-GMT+1
-/
-/ Multi-function, simple socket server,
-/ implemented in ANSI C.
-/
-******************************************************/
+/*
+* Name:          Simple Socket Server (in ANSI C)
+* Created:       20160629-12:51-GMT+1
+*
+* Creator:       Kim Olsen <post@kimeriktjoraolsen.no>
+* Lastchanhge:   20160701-04:53-GMT+1
+*
+* Multi-function, simple socket server,
+* implemented in ANSI C.
+*
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
